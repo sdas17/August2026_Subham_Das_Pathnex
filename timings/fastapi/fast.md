@@ -18,3 +18,5 @@ python -m venv venv
  source venv/Scripts/Activate
 pip install "fastapi[standard]"
 uvicorn main:app
+
+#relation database and no realtion database 
