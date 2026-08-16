@@ -20,3 +20,13 @@ pip install "fastapi[standard]"
 uvicorn main:app
 
 #relation database and no realtion database 
+database 
+int decimal precise
+varchat
+boolean
+array 
+
+row 
+column 
+
+primary key group of column 
